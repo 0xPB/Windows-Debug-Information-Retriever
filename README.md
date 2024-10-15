@@ -38,12 +38,5 @@ This project is licensed under the GNU General Public License v3.0. You can read
 - Windows OS (any version)
 - USB drive
 
-## 📥 Download the Script
-Click [here](https://your-link-to-file.com) to download the `Windows-Debug-Information-Retriever.bat` file directly.
-
 ## 🙌 Contribution
 Feel free to contribute to the project by opening issues or submitting pull requests. All contributions are welcome under the terms of the GNU GPLv3 license.
-
----
-
-© 2024 Windows-Debug-Information-Retriever | Licensed under GNU GPLv3
